@@ -42,7 +42,7 @@ In this section you will start your [Google Cloud Shell](https://cloud.google.co
   ```shell
   $ gcloud config set compute/zone us-east1-d
   ```
-
+This is a test
 1. Clone the lab repository in your cloud shell, then `cd` into that dir:
 
   ```shell
